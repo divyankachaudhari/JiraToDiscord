@@ -1,0 +1,27 @@
+{
+  "name": "jiratodiscord",
+  "version": "1.0.0",
+  "description": "Simple server to handle Jira's webhook and forward it to Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyankachaudhari/JiraToDiscord.git"
+  },
+  "keywords": [
+    "jira",
+    "webhook",
+    "discord"
+  ],
+  "author": "Divyanka Chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyankachaudhari/JiraToDiscord/issues"
+  },
+  "homepage": "https://github.com/divyankachaudhari/JiraToDiscord#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
